@@ -64,7 +64,7 @@ HTML,CSS,Java,C# .NET,PHP,MYSQL,C,Linux,Cryptography,powershell,java
 
 ## Certifications
 <div>
-  <img src="https://images.credly.com/size/100x100/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
+  
   <img src="https://images.credly.com/size/200x200/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
   <img src="https://images.credly.com/size/200x200/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
   <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
