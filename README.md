@@ -22,14 +22,14 @@ Implementing robust encryption and content control measures to ensure user priva
 I'm a Highly motivated cybersecurity enthusiast pursuing a BSc (Hons) in Computer Security. Specialized in certifications like SSCP (Coursera), and Google Cybersecurity. Skilled in web development (HTML, CSS, Javascript, PHP, MySQL) and Application Development using C# .NET Framework. Seeking internships and part-time jobs to gain practical experience. Goal-oriented with a strong passion for becoming a CTO/CIO/CISO Humanitarian. Ready to contribute my fullest potential to the tech industry's growth.
 
 ## Objective
-a keen interest in staying ahead of industry trends. With a solid foundation
+A keen interest in staying ahead of industry trends. With a solid foundation
 in business and a pursuit of excellence, I've already embarked on a remarkable journey. Armed with problem-solving skills and a deep understanding of cybersecurity
 tools, I'm actively seeking internships and part-time roles to bolster my real-world experience. By 2025, armed with a degree and a clear vision. My journey
 doesn't stop there. I aspire to pursue a master's degree and collaborate with industry giants, all while making a meaningful
 impact in the realm of technology.
 
 ## Skills
-HTML,CSS,Java,C# .NET,PHP,MYSQL,C,Linux,Cryptography,powershell,java
+HTML, CSS, Java, C#.NET, PHP, MYSQL, C, Linux, Cryptography, powershell, java
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -42,25 +42,7 @@ HTML,CSS,Java,C# .NET,PHP,MYSQL,C,Linux,Cryptography,powershell,java
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
