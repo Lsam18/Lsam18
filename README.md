@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![An image of @lsam18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsam18)](https://holopin.io/@lsam18)
 
-# Hello, I'm Lakshan Sameera
+# Hello, I'm Lakshan Sameer
 <a href="https://www.linkedin.com/in/lsam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 📧 Email: lakshan.sam28@gmail.com
