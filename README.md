@@ -19,7 +19,6 @@ Implementing robust encryption and content control measures to ensure user priva
 # Hello, I'm Lakshan Sameera
 <a href="https://www.linkedin.com/in/lsam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 I'm a Highly motivated cybersecurity enthusiast pursuing a BSc (Hons) in Computer Security. Specialized in certifications like SSCP (Coursera), and Google Cybersecurity. Skilled in web development (HTML, CSS, Javascript, PHP, MySQL) and Application Development using C# .NET Framework. Seeking internships and part-time jobs to gain practical experience. Goal-oriented with a strong passion for becoming a CTO/CIO/CISO Humanitarian. Ready to contribute my fullest potential to the tech industry's growth.
 
 ## Objective
@@ -30,16 +29,15 @@ doesn't stop there. I aspire to pursue a master's degree and collaborate with in
 impact in the realm of technology.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+HTML,CSS,Java,C# .NET,PHP,MYSQL,C,Linux,Cryptography,powershell,java
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scriting | Powershell                         | <a href = "https://github.com/Lsam18/FIM-System.git">File Integrity Monitoring System (FIM) </a>|
+| HTML,Javascript,CSS                           | <a href="https://lsam18.github.io/SPG/">Strong Password Generator (SGP)</a>|
+| C#.NET, MYSQL, Bunifu Framework               | <a href = "https://github.com/Lsam18/Goodness_Pharmacy.git"> Pharmacy Management System </a>|
+| Java,HTML,CSS,MYSQL,JDBC,Javascript           | <a href = "https://github.com/Lsam18/Green_Market.git">Green Supermarket</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
