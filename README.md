@@ -1,4 +1,4 @@
-![image](https://github.com/Lsam18/Lsam18/assets/115799412/bf53ae07-b431-4b4a-ba9d-578d8f42e327)### Hi there 👋
+### Hi there 👋
 [![An image of @lsam18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsam18)](https://holopin.io/@lsam18)
 
 <!--
@@ -64,11 +64,11 @@ HTML,CSS,Java,C# .NET,PHP,MYSQL,C,Linux,Cryptography,powershell,java
 
 ## Certifications
 <div>
-  
-  <img src="https://images.credly.com/size/200x200/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
-  <img src="https://images.credly.com/size/200x200/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
-  <img src="https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
-  <img src="https://images.credly.com/size/200x200/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" />
+  <img src="https://images.credly.com/size/100x100/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
+  <img src="https://images.credly.com/size/100x100/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
+  <img src="https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
+  <img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
+  <img src="https://images.credly.com/size/100x100/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" />
 </div>
 
 ## Projects
