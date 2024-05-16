@@ -20,9 +20,9 @@ I am a driven Cybersecurity enthusiast currently pursuing a BSc (Hons) in Comput
 A keen interest in staying ahead of industry trends. With a solid foundation in business and a pursuit of excellence, I've already embarked on a remarkable journey. Armed with problem-solving skills and a deep understanding of cybersecurity tools, I'm actively seeking internships and part-time roles to bolster my real-world experience. By 2025, armed with a degree and a clear vision. My journey doesn't stop there. I aspire to pursue a master's degree and collaborate with industry giants, all while making a meaningful impact in the realm of technology.
 
 ## Currently Working On
-🔭 **Network Traffic Analysis Tool** (May 2024 to Present)
+🔭 **Keylogger Development and Analysis** (May 2024 to Present)
 
-Developing a tool that monitors network traffic for suspicious activities, such as intrusion attempts or unusual data transfers. Utilizing machine learning algorithms to detect patterns indicative of cyber attacks.
+Developing a keylogger to understand the functionality and behavior of such malware. The project involves capturing keystrokes, securely logging them, and sending log files via email for analysis. Implemented advanced security measures to protect sensitive data and ensure ethical usage. Analyzing detection and mitigation techniques using various anti-malware tools and enhancing the keylogger's stealth capabilities.
 
 ## Skills
 | Skill                                         | Associated Project         |
