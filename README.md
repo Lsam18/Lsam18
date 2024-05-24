@@ -12,7 +12,7 @@ Certainly! Here's the formatted version of your content:
 
 📧 Email: lakshan.sam28@gmail.com
 
-🌐 Portfolio: [LSAM-CYBERSEC-PORTFOLIO](https://t.ly/LSAM-CYBERSEC) | [Personal Portfolio](https://lsam18.github.io/Lsam.Code/)
+🌐 Portfolio: [CYBERSEC-PORTFOLIO](https://lsam-cybersec.lovestoblog.com) | [PERSONAL- PORTFOLIO](https://lsam18.github.io/Lsam.Code/)
 
 I am a driven Cybersecurity enthusiast currently pursuing a BSc (Hons) in Computer Security. I hold various certifications, including SSCP (Coursera), Google Cybersecurity, Security Blue Team Pathway, and IBM Cybersecurity Analyst Professional. My areas of expertise include web development, C# .NET Framework, Digital Forensics, Darkweb Operations, and problem-solving. Passionate about utilizing technology for humanitarian impact, I aspire to a future role as CTO/CIO/CISO.
 
