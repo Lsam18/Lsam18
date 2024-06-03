@@ -53,4 +53,6 @@ Developing a keylogger to understand the functionality and behavior of such malw
 - Strong Password Generator
 - Mood Waves
 - Security Information and Event Management (SIEM) - Sentinel-Lab
+- Keylogger Application
+- Backdoor - Reverse shell - Remote Access Trogen (RAT) Python  
 
