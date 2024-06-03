@@ -1,6 +1,3 @@
-Certainly! Here's the formatted version of your content:
-
----
 
 ### Hi there! 👋
 
