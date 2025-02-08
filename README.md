@@ -63,12 +63,5 @@ anomalies.
 </div>
 
 ## Projects
-- FIM (File Integrity Monitoring System)
-- Pharmacy Management System
-- Green Supermarket
-- Strong Password Generator
-- Mood Waves
-- Security Information and Event Management (SIEM) - Sentinel-Lab
-- Keylogger Application
-- Backdoor - Reverse shell - Remote Access Trogen (RAT) Python  
+To Learn more about all my cybersecurity projectc please head over to : 🌐 Portfolio: [CYBERSEC-PORTFOLIO]([https://lsam-cybersec.lovestoblog.com](https://lsam-cybersec.lovestoblog.com/#projects-section)) 
 
