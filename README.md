@@ -11,6 +11,7 @@
 
 🌐 Portfolio: [CYBERSEC-PORTFOLIO](https://lsam-cybersec.lovestoblog.com)
 
+## Objective
 Cybersecurity Enthusiast | Ethical Hacking | SIEM & Threat Hunting
 
 I’m a final-year Cybersecurity student at NSBM Green University, affiliated with the University of Plymouth, graduating in 2025. I’m passionate about solving security challenges and uncovering hidden details. My experience includes penetration testing, password cracking, network traffic analysis (Wireshark, Snort), and Digital Forensics for investigating incidents.
@@ -23,7 +24,7 @@ Outside of work, I’m actively involved in the FOSS Community and the NSBM Isla
 
 My long-term goal is to build my own cybersecurity company, developing innovative solutions to tackle the ever-growing landscape of cyber threats. If you're passionate about cybersecurity or tackling real-world security challenges, let’s connect!
 
-## Objective
+## Certification - 🌐 Learn More: [Certifications]([https://lsam-cybersec.lovestoblog.com](https://lsam-cybersec.lovestoblog.com/#projects-section)) 
 I hold various certifications, including SSCP (Coursera), Google Cybersecurity, Security Blue Team Pathway, and IBM Cybersecurity Analyst Professional. My areas of expertise include web development, C# .NET Framework, Digital Forensics, Darkweb Operations, and problem-solving. Passionate about utilizing technology for humanitarian impact, I aspire to a future role as CTO/CIO/CISO.
 
 ## Currently Working On
