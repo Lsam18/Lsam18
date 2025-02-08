@@ -14,12 +14,28 @@
 I am a driven Cybersecurity enthusiast currently pursuing a BSc (Hons) in Computer Security. I hold various certifications, including SSCP (Coursera), Google Cybersecurity, Security Blue Team Pathway, and IBM Cybersecurity Analyst Professional. My areas of expertise include web development, C# .NET Framework, Digital Forensics, Darkweb Operations, and problem-solving. Passionate about utilizing technology for humanitarian impact, I aspire to a future role as CTO/CIO/CISO.
 
 ## Objective
-A keen interest in staying ahead of industry trends. With a solid foundation in business and a pursuit of excellence, I've already embarked on a remarkable journey. Armed with problem-solving skills and a deep understanding of cybersecurity tools, I'm actively seeking internships and part-time roles to bolster my real-world experience. By 2025, armed with a degree and a clear vision. My journey doesn't stop there. I aspire to pursue a master's degree and collaborate with industry giants, all while making a meaningful impact in the realm of technology.
+Cybersecurity Enthusiast | Ethical Hacking | SIEM & Threat Hunting
 
+I’m a final-year Cybersecurity student at NSBM Green University, affiliated with the University of Plymouth, graduating in 2025. I’m passionate about solving security challenges and uncovering hidden details. My experience includes penetration testing, password cracking, network traffic analysis (Wireshark, Snort), and Digital Forensics for investigating incidents.
+
+During my internship at MillenniumIT ESP, I gained hands-on experience with SIEMs like Azure Sentinel and FortiSIEM, optimizing log analysis workflows and using KQL to turn raw security data into actionable insights. I’m driven by both the offensive and defensive sides of cybersecurity, always striving to stay one step ahead of evolving threats.
+
+Currently, I’m gaining practical experience at a startup developing an AI-powered threat detection engine, where I’m involved in cutting-edge projects to build smarter, faster detection systems.
+
+Outside of work, I’m actively involved in the FOSS Community and the NSBM Islamic Society, where I collaborate with like-minded individuals to share ideas and grow together.
+
+My long-term goal is to build my own cybersecurity company, developing innovative solutions to tackle the ever-growing landscape of cyber threats. If you're passionate about cybersecurity or tackling real-world security challenges, let’s connect!
 ## Currently Working On
-🔭 **Keylogger Development and Analysis** (May 2024 to Present)
 
-Developing a keylogger to understand the functionality and behavior of such malware. The project involves capturing keystrokes, securely logging them, and sending log files via email for analysis. Implemented advanced security measures to protect sensitive data and ensure ethical usage. Analyzing detection and mitigation techniques using various anti-malware tools and enhancing the keylogger's stealth capabilities.
+🔭 **Hybrid SIEM with Cloud and Local Honeypot
+Integration** (November 2024 to Present)
+
+Critical flaws in the Security Information and Event Management (SIEM) systems that are currently
+in use are addressed by the proposed project, Hybrid SIEM with Cloud and Local Honeypot
+Integration. The project uses a hybrid strategy to combine local and cloud-based honeypots into a
+single monitoring environment. This integration offers strong threat detection and response
+capabilities by using Azure Sentinel for centralised logging and machine learning to identify
+anomalies.
 
 ## Skills
 | Skill                                         | Associated Project         |
