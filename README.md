@@ -24,7 +24,7 @@ Outside of work, I’m actively involved in the FOSS Community and the NSBM Isla
 
 My long-term goal is to build my own cybersecurity company, developing innovative solutions to tackle the ever-growing landscape of cyber threats. If you're passionate about cybersecurity or tackling real-world security challenges, let’s connect!
 
-## Certification - 🌐 Learn More: [Certifications]([https://lsam-cybersec.lovestoblog.com](https://lsam-cybersec.lovestoblog.com/#projects-section)) 
+## Certification - 🌐 Portfolio: [LEARN MORE - CERTIFICATIONS & BADGES](https://lsam-cybersec.lovestoblog.com)
 I hold various certifications, including SSCP (Coursera), Google Cybersecurity, Security Blue Team Pathway, and IBM Cybersecurity Analyst Professional. My areas of expertise include web development, C# .NET Framework, Digital Forensics, Darkweb Operations, and problem-solving. Passionate about utilizing technology for humanitarian impact, I aspire to a future role as CTO/CIO/CISO.
 
 ## Currently Working On
@@ -65,5 +65,5 @@ anomalies.
 </div>
 
 ## Projects
-To Learn more about all my cybersecurity projectc please head over to : 🌐 Portfolio: [CYBERSEC-PORTFOLIO]([https://lsam-cybersec.lovestoblog.com](https://lsam-cybersec.lovestoblog.com/#projects-section)) 
+To Learn more about all my cybersecurity projectc please head over to : 🌐 Portfolio: [LEARN MORE - ](https://lsam-cybersec.lovestoblog.com/#projects-section)
 
