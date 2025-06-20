@@ -1,6 +1,6 @@
 # 👨‍💻 Lakshan Sameera
 
-**Cybersecurity Engineer | Threat Detection Architect | SOC Automation Specialist**
+**Cybersecurity Engineer | Threat Detection | SOC Automation Specialist**
 
 Kalutara, Sri Lanka · lakshan.sam28@gmail.com · [lsam-cyber.space](https://lsam-cyber.space) · [linkedin.com/in/lsam](https://linkedin.com/in/lsam)
 
