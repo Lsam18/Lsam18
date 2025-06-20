@@ -1,162 +1,94 @@
-<!-- GitHub README START -->
+# 👨‍💻 Lakshan Sameera
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=250&section=header&text=Lakshan%20Sameera&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</p>
+**Cybersecurity Engineer | Threat Detection Architect | SOC Automation Specialist**
 
-<h1 align="center">🔐 Lakshan Sameera — Cybersecurity Engineer & SIEM Automation Specialist</h1>
-
-<p align="center">
-  <strong>🔎 Threat Hunter | 🛡️ Detection Engineer | ☁️ Cloud-SIEM Architect | ⚙️ SOC Automation Expert</strong><br>
-  <em>Driven by accuracy. Obsessed with response time. Architecting secure systems that scale.</em>
-</p>
-
-<p align="center">
-  <a href="https://lsam-cyber.space" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/lsam" target="_blank">🔗 LinkedIn</a> • 
-  <a href="mailto:lakshan.sam28@gmail.com">📬 Email</a> • 
-  <a href="https://github.com/Lsam18" target="_blank">🐙 GitHub</a>
-</p>
+Kalutara, Sri Lanka · lakshan.sam28@gmail.com · [lsam-cyber.space](https://lsam-cyber.space) · [linkedin.com/in/lsam](https://linkedin.com/in/lsam)
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 Summary
 
-I'm a cybersecurity engineer with real-world experience building hybrid SIEM solutions, designing threat detection playbooks, and writing SOC automation code that **actually gets deployed in live environments**.
-
-Whether it’s identifying a malware beacon through custom KQL, responding to a brute-force attack in under 5 seconds with Logic Apps, or writing code to extract IOCs from phishing emails – I build **battle-tested detection and response systems**.
-
-- 🎓 BSc (Hons) in Computer Security – First Class, University of Plymouth
-- 🧪 Over 10 projects from real-world environments (SOC, PenTesting, Cloud)
-- ⚔️ Ranked Top 2% Globally on TryHackMe (Red + Blue Team challenges)
-- 🛠️ Regular contributor to open-source SOC tooling & dashboards
-- 📚 Certified across Microsoft, Fortinet, ISO/IEC, Google, and IBM
+First-class graduate in Computer Security (University of Plymouth), currently engaged in cyber threat intelligence, SOC operations, and SIEM engineering. I architect secure, high-performance detection systems, with proven field experience at NOVAIZE and MillenniumIT ESP. I’m in the top 2% globally on TryHackMe, with a portfolio focused on hybrid SIEM, automation-first incident response, and offensive security simulations.
 
 ---
 
-## 🛡️ Core Competencies
+## 🔬 Projects Portfolio
 
-### 🖥️ SOC Engineering & Detection Logic
-- SIEM: Azure Sentinel, Splunk, FortiSIEM, QRadar
-- KQL query building with advanced joins, time-windowing, UDM mapping
-- Detection use-case design: Credential Theft, RDP Bruteforce, Lateral Movement
-- MITRE ATT&CK mapping for triage optimization
+### 1. 🛡️ Security Operations
+- **OSSEC HIDS: Detecting the EternalBlue Exploitation**  
+  Simulated MS17-010 attack; OSSEC configured to detect, alert, and log real-time exploitation attempts.
 
-### ⚔️ Offensive Security & Forensics
-- Penetration Testing: EternalBlue (MS17-010), SMB exploits, RDP compromise
-- OSINT, hash analysis, sandboxing, keyloggers, binary analysis
-- Incident Reconstruction from packet captures (.pcap) and live logs
+- **Network Intrusion Analysis – DevonCinema**  
+  Uncovered HTTP-based malware delivery, C2 comms, and lateral movement using Wireshark & Snort.
 
-### ☁️ Cloud & Hybrid Infrastructure
-- SIEM-Honeypot Integration: Azure Sentinel + On-Prem Windows Sensors
-- Log source onboarding (Sysmon, DNS, Custom Linux logs)
-- Deployment: Docker, EC2, NGINX, ApacheBench, Mininet
+### 2. 🔍 Digital Forensics
+- **Comprehensive Forensic Report for Incident Response**  
+  Performed disk/image acquisition, volatile memory analysis, and documented unauthorized access using FTK, Autopsy, Volatility.
 
-### 🧩 Automation Engineering
-- Bash/Python/PowerShell scripts for IOC enrichment, rule updates, alert parsing
-- GitHub Actions CI/CD pipeline for Sentinel rule deployment
-- Azure Logic Apps for automated containment (IP block, VM isolation)
+### 3. ⚔️ Penetration Testing
+- **Red Team Simulation & Vulnerability Assessment**  
+  Tools: OpenVAS, Nmap, Metasploit. Discovered critical flaws and documented real-world exploit paths and fixes.
 
----
+### 4. 🛠️ Application Development
+- **Key Logger with Email Notification**  
+  Built custom logger to monitor keys, take screenshots, track URLs and location — for ethical awareness use.
 
-## 🔥 Flagship Projects
+- **Reverse Shell RAT**  
+  Created a Python-based reverse shell with screen sharing, webcam snapshots, and remote file access.
 
-### 🛰️ [SentinelX: Hybrid SIEM Architecture (Cloud + Honeypot)](https://github.com/Lsam18/SentinelX-Hybrid-SIEM)
-> End-to-end SIEM with cloud and local integration, playbooks, and dashboards.
+- **File Integrity Monitoring Tool (PowerShell)**  
+  Real-time integrity alerts using hash monitoring and Windows Events — tailored for SOC environments.
 
-- Integrated honeypots with Azure Sentinel
-- Custom Node.js FIM with SHA-256 hashing and real-time alerts
-- MITRE ATT&CK dashboards using Python (Streamlit) for SOC analysts
-- GitHub CI/CD pipeline for rule versioning
+### 5. ☁️ Cloud Security
+- **Azure Sentinel RDP Detection Lab**  
+  Automated PowerShell script detects failed RDP logins via Windows Event Logs, visualized via Sentinel.
 
----
+- **Azure + OpenVAS Vulnerability Management**  
+  Deployed vulnerable VMs in Azure, conducted credentialed scans, wrote mitigation playbook.
 
-### 🕵️‍♂️ OSSEC HIDS Detection Lab — [Medium Article](https://medium.com/@lakshan.sam28/unveiling-ossec-hids-detecting-the-eternalblue-exploitation-275c6a243904)
-> Detecting MS17-010 attacks in real time with custom signatures and visualization
+- **UNIFIED HYBRID SIEM ARCHITECTURE**  
+  Cloud & on-prem honeypots, KQL detection rules, automated Logic App response (<5s), Streamlit dashboards. 
+  > Achieved 96.2% detection accuracy, sub-5s mitigation time.
 
-- Built isolated lab (Kali, Win7, Ubuntu)
-- Detected user creation and group escalation events
-- Visualized alerts in OSSEC Web UI
+- **Cloud Load Balancing + SDN Adaptive Video Streaming**  
+  Built fully scripted AWS-backed load balancer using Docker, PHP, NGINX; built SDN testbed via Mininet + OpenDaylight + DASH.js with auto-bitrate switching and real-time QoS stats.
 
----
+### 6. 💼 Professional Virtual Experience
+- **Mastercard Cybersecurity Awareness Simulation (Forage)**  
+  Threat identification, risk mitigation in corporate simulation.
 
-### 📈 [SOC CSV Analyzer](https://lsam-cyber.space/projects.html)
-> Custom-built analyst dashboard (MITRE mapping, PDF reporting, anomaly scoring)
+- **TATA Group Cybersecurity Analyst – IAM Simulation**  
+  Worked on identity lifecycle, role-based access, and risk management scenarios.
 
-- Written in Python + Streamlit
-- CSV ingestion with auto-sanitization, parsing, and enrichment
-- Integrated with VirusTotal for hash checks
+- **PwC Switzerland Cybersecurity Job Simulation**  
+  Focused on digital intelligence analysis, incident triage, and strategy alignment.
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Certifications
 
-| Issuer | Certification |
-|--------|---------------|
-| Google | Cybersecurity Professional |
-| IBM | Cybersecurity Analyst |
-| Microsoft | SC-200: Security Operations Analyst |
-| Fortinet | NSE 1, NSE 2, FCP FortiSIEM 6.3 |
-| Security Blue Team | Junior Analyst |
-| ISO | ISO/IEC 27001 Associate |
-| CompTIA | Security+ (SY0-701) |
-
-🧩 **Other:** Kusto Detective Agency (Parts 1–4), Udemy Cloud SOC bootcamps, Attack range simulation labs.
+- Google Cybersecurity Professional
+- IBM Cybersecurity Analyst
+- ISO/IEC 27001 Associate
+- Microsoft SC-200: Security Operations Analyst
+- Fortinet NSE 1, NSE 2, FortiSIEM FCP
+- CompTIA Security+ (SY0-701)
+- Security Blue Team – Junior Analyst
+- Kusto Detective Agency (Parts 1–4)
 
 ---
 
-## 💡 Thought Leadership
+## 📈 GitHub Stats
 
-- 🛠️ Workshop Instructor — Internal training on KQL optimization & alert triage
-- 🧠 Open-Source Contributor — GitHub: SIEM rules, Playbooks, PowerShell tools
-- ✍️ Author — Technical guides on detection logic & hybrid architecture
-- 🏆 Hacktoberfest Contributor — 2022 & 2024 Top 1000 Worldwide
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lsam18&theme=dark)
 
 ---
 
-## 🧩 Tech Stack
+## 💬 Contact
 
-### 🚨 Security & Infra
-`Azure Sentinel` • `FortiSIEM` • `Splunk` • `Snort` • `Sysmon` • `Windows Logs` • `Sysinternals`
+📧 lakshan.sam28@gmail.com  
+🌐 [lsam-cyber.space](https://lsam-cyber.space)  
+🔗 [linkedin.com/in/lsam](https://linkedin.com/in/lsam)
 
-### ⚙️ Programming / Scripting
-`Python` • `PowerShell` • `Bash` • `KQL` • `Node.js` • `C` • `C#`
-
-### ☁️ Cloud & Tools
-`Microsoft Azure` • `AWS EC2` • `Docker Compose` • `GitHub Actions` • `ApacheBench`
-
-### 🧪 Testing & Analysis
-`Metasploit` • `Wireshark` • `tcpdump` • `Volatility` • `MISP` • `AlienVault OTX`
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=Lsam18&theme=radical&hide_border=true" width="48%">
-</p>
-
----
-
-## 📫 Let’s Talk
-
-If you're a:
-
-- 💼 Hiring Manager looking for a hands-on cybersecurity professional
-- 🧑‍🔬 Security researcher looking to collaborate on detection systems
-- 🧪 Startup founder needing SIEM or threat detection infrastructure
-- 👨‍🏫 Student or enthusiast looking for mentorship in SOC and SIEM
-
-Then I’d love to connect.
-
-📧 Email me: **lakshan.sam28@gmail.com**  
-🌐 Portfolio: [lsam-cyber.space](https://lsam-cyber.space)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer"/>
-</p>
-
-<!-- GitHub README END -->
+> "Detection is just the beginning. My job is to engineer response before damage."
