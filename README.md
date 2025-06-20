@@ -1,69 +1,100 @@
+<h1 align="center">👋 Hello, I'm Lakshan Sameera</h1>
+<p align="center">
+  🌐 Cybersecurity Engineer | SIEM Architect | SOC Automator <br>
+  🛡️ Threat Hunter | Cloud Security Enthusiast | Top 2% TryHackMe <br>
+  📍 Sri Lanka | 📨 lakshan.sam28@gmail.com
+</p>
 
-### Hi there! 👋
+<p align="center">
+  <a href="https://lsam-cyber.space" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lsam--cyber.space-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/lsam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-lsam-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Lsam18" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lsam18-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:lakshan.sam28@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-[![An image of @lsam18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsam18)](https://holopin.io/@lsam18)
+---
 
-# Hello, I'm Lakshan Sameer
+### 🧠 About Me
 
-<a href="https://www.linkedin.com/in/lsam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I’m a cybersecurity graduate and security engineer with hands-on expertise in:
+- 🚨 **SIEM Engineering** – Azure Sentinel, FortiSIEM, QRadar, Splunk
+- 🔍 **Threat Detection & Automation** – KQL, Bash, PowerShell, Logic Apps
+- ⚔️ **Offensive Security** – Penetration Testing, Digital Forensics, Malware Analysis
+- 🧠 **AI-Powered Threat Intelligence** – Real-time IOC Enrichment, Watchlists, Threat Feeds
 
-📧 Email: lakshan.sam28@gmail.com
+I specialize in designing real-world detection rules, playbooks, and hybrid architectures to monitor and respond to attacks **within seconds**. 
 
-🌐 Portfolio: [CYBERSEC-PORTFOLIO](https://lsam-cybersec.lovestoblog.com)
+---
 
-## Objective
-Cybersecurity Enthusiast | Ethical Hacking | SIEM & Threat Hunting
+### 🔥 Noteworthy Projects
 
-I’m a final-year Cybersecurity student at NSBM Green University, affiliated with the University of Plymouth, graduating in 2025. I’m passionate about solving security challenges and uncovering hidden details. My experience includes penetration testing, password cracking, network traffic analysis (Wireshark, Snort), and Digital Forensics for investigating incidents.
+#### 🚀 [SentinelX – Hybrid SIEM Platform](https://github.com/Lsam18/SentinelX-Hybrid-SIEM)
+> Cloud + On-Prem Honeypots integrated into Azure Sentinel  
+> 🛡️ FIM in Node.js | 🧠 Real-time alerts | ⏱️ <5s response  
+> 🎯 MITRE ATT&CK Mapping | 📊 SOC Dashboards with Streamlit
 
-During my internship at MillenniumIT ESP, I gained hands-on experience with SIEMs like Azure Sentinel and FortiSIEM, optimizing log analysis workflows and using KQL to turn raw security data into actionable insights. I’m driven by both the offensive and defensive sides of cybersecurity, always striving to stay one step ahead of evolving threats.
+#### 🔍 [OSSEC HIDS – EternalBlue Exploit Detection](https://medium.com/@lakshan.sam28/unveiling-ossec-hids-detecting-the-eternalblue-exploitation-275c6a243904)
+> Custom HIDS setup for EternalBlue | Visualized alerts | Hardened SMB services
 
-Currently, I’m gaining practical experience at a startup developing an AI-powered threat detection engine, where I’m involved in cutting-edge projects to build smarter, faster detection systems.
+#### 🎥 [SDN-Powered Adaptive Video Streaming](https://drive.google.com/file/d/1bvIZ8KH1xiDovicwvwZs5XTNYR8_6Q93/view)
+> End-to-end adaptive streaming using **Mininet + DASH.js + OpenDaylight**
 
-Outside of work, I’m actively involved in the FOSS Community and the NSBM Islamic Society, where I collaborate with like-minded individuals to share ideas and grow together.
+---
 
-My long-term goal is to build my own cybersecurity company, developing innovative solutions to tackle the ever-growing landscape of cyber threats. If you're passionate about cybersecurity or tackling real-world security challenges, let’s connect!
+### 🧰 Tech Stack
 
-## Certification - 🌐 Certs&Badges  [LEARN MORE - CERTIFICATIONS & BADGES](https://lsam-cybersec.lovestoblog.com)
-I hold various certifications, including SSCP (Coursera), Google Cybersecurity, Security Blue Team Pathway, and IBM Cybersecurity Analyst Professional. My areas of expertise include web development, C# .NET Framework, Digital Forensics, Darkweb Operations, and problem-solving. Passionate about utilizing technology for humanitarian impact, I aspire to a future role as CTO/CIO/CISO.
+#### 💼 SOC & SIEM
+`Azure Sentinel` `FortiSIEM` `Splunk` `QRadar` `MITRE ATT&CK` `KQL`
 
-## Currently Working On
+#### 🐍 Scripting & Automation
+`Python` `PowerShell` `Bash` `Logic Apps` `GitHub Actions`
 
-🔭 **Hybrid SIEM with Cloud and Local Honeypot
-Integration** (November 2024 to Present)
+#### ⚔️ OffSec & Forensics
+`Metasploit` `Wireshark` `Snort` `Kali Linux` `OSINT` `tcpdump` `Volatility`
 
-Critical flaws in the Security Information and Event Management (SIEM) systems that are currently
-in use are addressed by the proposed project, Hybrid SIEM with Cloud and Local Honeypot
-Integration. The project uses a hybrid strategy to combine local and cloud-based honeypots into a
-single monitoring environment. This integration offers strong threat detection and response
-capabilities by using Azure Sentinel for centralised logging and machine learning to identify
-anomalies.
+#### ☁️ Cloud & Infra
+`Microsoft Azure` `AWS EC2` `Docker` `NGINX` `VirtualBox` `VMware` `Active Directory`
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Scripting, Powershell                         | [File Integrity Monitoring System (FIM)](https://github.com/Lsam18/FIM-System.git) |
-| HTML, Javascript, CSS                         | [Strong Password Generator (SGP)](https://lsam18.github.io/SPG/) |
-| C#.NET, MYSQL, Bunifu Framework               | [Pharmacy Management System](https://github.com/Lsam18/Goodness_Pharmacy.git) |
-| Java, HTML, CSS, MYSQL, JDBC, Javascript      | [Green Supermarket](https://github.com/Lsam18/Green_Market.git) |
-| PowerShell Scripting, Azure Sentinel, Windows Event Logs Analysis, Geolocation Data Integration, Real-time Threat Monitoring | [Security Information and Event Management (SIEM) - Sentinel-Lab](https://github.com/Lsam18/SIEM-Sentinel-Lab.git)|
-| Cybersecurity Analysis, API Integration, Data Visualization | |
+---
 
-## Tools
-- **Scripting and Automation**: Powershell
-- **Web Development**: HTML, CSS, Javascript
-- **Programming Languages**: Java, C# .NET, PHP, MYSQL, C, Linux
-- **Security**: Cryptography, Azure Sentinel, Windows Event Logs Analysis, Geolocation Data Integration, Real-time Threat Monitoring, Cybersecurity Analysis, API Integration, Data Visualization
+### 🏅 Certifications
 
-## Certifications
-<div>
-  <img src="https://images.credly.com/size/100x100/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
-  <img src="https://images.credly.com/size/100x100/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
-  <img src="https://images.credly.com/size/100x100/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
-  <img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
-  <img src="https://images.credly.com/size/100x100/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" />
-</div>
+- 🟩 **Google Cybersecurity Professional**
+- 🟦 **IBM Cybersecurity Analyst**
+- 🟪 **ISO/IEC 27001 Associate**
+- 🟥 **CompTIA Security+ (SY0-701)**
+- 🔵 **Microsoft SC-200: Security Operations Analyst**
+- 🟧 **Fortinet NSE 1, 2, FCP FortiSIEM**
+- 🧩 **Security Blue Team: Junior Analyst**
 
-## Projects
-To Learn more about all my cybersecurity projectc please head over to : 🌐 My Portfolio: [LEARN MORE - ](https://lsam-cybersec.lovestoblog.com/#projects-section)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=radical&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lsam18&theme=radical" width="48%">
+</p>
+
+---
+
+### 🌱 Currently Working On
+
+- 🚧 AI-powered threat detection engine @ NOVAIZE
+- 📦 Open-source SOC tooling with automation
+- 🎯 Red vs Blue simulation tools for learning & defense
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+
+I’m always open to:
+- 💼 Freelance security automation gigs
+- 📊 Contributing to SOC tools and dashboards
+- 🧪 Collaborating on red/blue team research
+
+> ⚡ Let’s build systems that don’t just detect — but **respond**.  
+> 🧠 Speed, accuracy, and constant evolution are what I bring to your security stack.
+
+---
 
