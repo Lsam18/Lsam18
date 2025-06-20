@@ -1,94 +1,100 @@
-# 👨‍💻 Lakshan Sameera
+<h1 align="center">👋 Hello, I'm Lakshan Sameera</h1>
+<p align="center">
+  🌐 Cybersecurity Engineer | SIEM Architect | SOC Automator <br>
+  🛡️ Threat Hunter | Cloud Security Enthusiast | Top 2% TryHackMe <br>
+  📍 Sri Lanka | 📨 lakshan.sam28@gmail.com
+</p>
 
-**Cybersecurity Engineer | Threat Detection Architect | SOC Automation Specialist**
-
-Kalutara, Sri Lanka · lakshan.sam28@gmail.com · [lsam-cyber.space](https://lsam-cyber.space) · [linkedin.com/in/lsam](https://linkedin.com/in/lsam)
-
----
-
-## 🧠 Summary
-
-First-class graduate in Computer Security (University of Plymouth), currently engaged in cyber threat intelligence, SOC operations, and SIEM engineering. I architect secure, high-performance detection systems, with proven field experience at NOVAIZE and MillenniumIT ESP. I’m in the top 2% globally on TryHackMe, with a portfolio focused on hybrid SIEM, automation-first incident response, and offensive security simulations.
-
----
-
-## 🔬 Projects Portfolio
-
-### 1. 🛡️ Security Operations
-- **OSSEC HIDS: Detecting the EternalBlue Exploitation**  
-  Simulated MS17-010 attack; OSSEC configured to detect, alert, and log real-time exploitation attempts.
-
-- **Network Intrusion Analysis – DevonCinema**  
-  Uncovered HTTP-based malware delivery, C2 comms, and lateral movement using Wireshark & Snort.
-
-### 2. 🔍 Digital Forensics
-- **Comprehensive Forensic Report for Incident Response**  
-  Performed disk/image acquisition, volatile memory analysis, and documented unauthorized access using FTK, Autopsy, Volatility.
-
-### 3. ⚔️ Penetration Testing
-- **Red Team Simulation & Vulnerability Assessment**  
-  Tools: OpenVAS, Nmap, Metasploit. Discovered critical flaws and documented real-world exploit paths and fixes.
-
-### 4. 🛠️ Application Development
-- **Key Logger with Email Notification**  
-  Built custom logger to monitor keys, take screenshots, track URLs and location — for ethical awareness use.
-
-- **Reverse Shell RAT**  
-  Created a Python-based reverse shell with screen sharing, webcam snapshots, and remote file access.
-
-- **File Integrity Monitoring Tool (PowerShell)**  
-  Real-time integrity alerts using hash monitoring and Windows Events — tailored for SOC environments.
-
-### 5. ☁️ Cloud Security
-- **Azure Sentinel RDP Detection Lab**  
-  Automated PowerShell script detects failed RDP logins via Windows Event Logs, visualized via Sentinel.
-
-- **Azure + OpenVAS Vulnerability Management**  
-  Deployed vulnerable VMs in Azure, conducted credentialed scans, wrote mitigation playbook.
-
-- **UNIFIED HYBRID SIEM ARCHITECTURE**  
-  Cloud & on-prem honeypots, KQL detection rules, automated Logic App response (<5s), Streamlit dashboards. 
-  > Achieved 96.2% detection accuracy, sub-5s mitigation time.
-
-- **Cloud Load Balancing + SDN Adaptive Video Streaming**  
-  Built fully scripted AWS-backed load balancer using Docker, PHP, NGINX; built SDN testbed via Mininet + OpenDaylight + DASH.js with auto-bitrate switching and real-time QoS stats.
-
-### 6. 💼 Professional Virtual Experience
-- **Mastercard Cybersecurity Awareness Simulation (Forage)**  
-  Threat identification, risk mitigation in corporate simulation.
-
-- **TATA Group Cybersecurity Analyst – IAM Simulation**  
-  Worked on identity lifecycle, role-based access, and risk management scenarios.
-
-- **PwC Switzerland Cybersecurity Job Simulation**  
-  Focused on digital intelligence analysis, incident triage, and strategy alignment.
+<p align="center">
+  <a href="https://lsam-cyber.space" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lsam--cyber.space-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/lsam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-lsam-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Lsam18" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lsam18-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:lakshan.sam28@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-## 📜 Certifications
+### 🧠 About Me
 
-- Google Cybersecurity Professional
-- IBM Cybersecurity Analyst
-- ISO/IEC 27001 Associate
-- Microsoft SC-200: Security Operations Analyst
-- Fortinet NSE 1, NSE 2, FortiSIEM FCP
-- CompTIA Security+ (SY0-701)
-- Security Blue Team – Junior Analyst
-- Kusto Detective Agency (Parts 1–4)
+I’m a cybersecurity graduate and security engineer with hands-on expertise in:
+- 🚨 **SIEM Engineering** – Azure Sentinel, FortiSIEM, QRadar, Splunk
+- 🔍 **Threat Detection & Automation** – KQL, Bash, PowerShell, Logic Apps
+- ⚔️ **Offensive Security** – Penetration Testing, Digital Forensics, Malware Analysis
+- 🧠 **AI-Powered Threat Intelligence** – Real-time IOC Enrichment, Watchlists, Threat Feeds
 
----
-
-## 📈 GitHub Stats
-
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lsam18&theme=dark)
+I specialize in designing real-world detection rules, playbooks, and hybrid architectures to monitor and respond to attacks **within seconds**. 
 
 ---
 
-## 💬 Contact
+### 🔥 Noteworthy Projects
 
-📧 lakshan.sam28@gmail.com  
-🌐 [lsam-cyber.space](https://lsam-cyber.space)  
-🔗 [linkedin.com/in/lsam](https://linkedin.com/in/lsam)
+#### 🚀 [SentinelX – Hybrid SIEM Platform](https://github.com/Lsam18/SentinelX-Hybrid-SIEM)
+> Cloud + On-Prem Honeypots integrated into Azure Sentinel  
+> 🛡️ FIM in Node.js | 🧠 Real-time alerts | ⏱️ <5s response  
+> 🎯 MITRE ATT&CK Mapping | 📊 SOC Dashboards with Streamlit
 
-> "Detection is just the beginning. My job is to engineer response before damage."
+#### 🔍 [OSSEC HIDS – EternalBlue Exploit Detection](https://medium.com/@lakshan.sam28/unveiling-ossec-hids-detecting-the-eternalblue-exploitation-275c6a243904)
+> Custom HIDS setup for EternalBlue | Visualized alerts | Hardened SMB services
+
+#### 🎥 [SDN-Powered Adaptive Video Streaming](https://drive.google.com/file/d/1bvIZ8KH1xiDovicwvwZs5XTNYR8_6Q93/view)
+> End-to-end adaptive streaming using **Mininet + DASH.js + OpenDaylight**
+
+---
+
+### 🧰 Tech Stack
+
+#### 💼 SOC & SIEM
+`Azure Sentinel` `FortiSIEM` `Splunk` `QRadar` `MITRE ATT&CK` `KQL`
+
+#### 🐍 Scripting & Automation
+`Python` `PowerShell` `Bash` `Logic Apps` `GitHub Actions`
+
+#### ⚔️ OffSec & Forensics
+`Metasploit` `Wireshark` `Snort` `Kali Linux` `OSINT` `tcpdump` `Volatility`
+
+#### ☁️ Cloud & Infra
+`Microsoft Azure` `AWS EC2` `Docker` `NGINX` `VirtualBox` `VMware` `Active Directory`
+
+---
+
+### 🏅 Certifications
+
+- 🟩 **Google Cybersecurity Professional**
+- 🟦 **IBM Cybersecurity Analyst**
+- 🟪 **ISO/IEC 27001 Associate**
+- 🟥 **CompTIA Security+ (SY0-701)**
+- 🔵 **Microsoft SC-200: Security Operations Analyst**
+- 🟧 **Fortinet NSE 1, 2, FCP FortiSIEM**
+- 🧩 **Security Blue Team: Junior Analyst**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=radical&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lsam18&theme=radical" width="48%">
+</p>
+
+---
+
+### 🌱 Currently Working On
+
+- 🚧 AI-powered threat detection engine @ NOVAIZE
+- 📦 Open-source SOC tooling with automation
+- 🎯 Red vs Blue simulation tools for learning & defense
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+
+I’m always open to:
+- 💼 Freelance security automation gigs
+- 📊 Contributing to SOC tools and dashboards
+- 🧪 Collaborating on red/blue team research
+
+> ⚡ Let’s build systems that don’t just detect — but **respond**.  
+> 🧠 Speed, accuracy, and constant evolution are what I bring to your security stack.
+
+---
+
