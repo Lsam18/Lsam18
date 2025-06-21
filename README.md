@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Dynamic Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=red&background=000000&center=true&vCenter=true&width=1200&height=80&lines=🧠+Cybersecurity+Engineer+%7C+Purple+Team+Operative+🔥;SOC+Automator+⚡️+Threat+Intelligence+Hunter+🎯;SIEM+Architect+%7C+Detection+Engineering+Master+🛡️;96.2%25+Detection+Accuracy+%7C+Sub-5s+Response+Time+⚡️;Top+2%25+TryHackMe+%7C+Azure+Sentinel+Expert+☁️;Offense+Informs+Defense+%7C+DevSecOps+Mindset+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=80&lines=🧠+Cybersecurity+Engineer+%7C+Purple+Team+Operative+🔥;SOC+Automator+⚡️+Threat+Intelligence+Hunter+🎯;SIEM+Architect+%7C+Detection+Engineering+Master+🛡️;96.2%25+Detection+Accuracy+%7C+Sub-5s+Response+Time+⚡️;Top+2%25+TryHackMe+%7C+Azure+Sentinel+Expert+☁️;Offense+Informs+Defense+%7C+DevSecOps+Mindset+🚀)](https://git.io/typing-svg)
 
 <!-- Cyberpunk Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=header&text=LSAM'S%20CYBER%20PROFILE&fontSize=40&fontColor=FF0000&animation=twinkling&fontAlignY=65&desc=Security%20•%20Intelligence%20•%20Defense&descAlignY=85&descSize=16"/>
