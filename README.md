@@ -6,7 +6,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=80&lines=🧠+Cybersecurity+Engineer+%7C+Purple+Team+Operative+🔥;SOC+Automator+⚡️+Threat+Intelligence+Hunter+🎯;SIEM+Architect+%7C+Detection+Engineering+Master+🛡️;96.2%25+Detection+Accuracy+%7C+Sub-5s+Response+Time+⚡️;Top+2%25+TryHackMe+%7C+Azure+Sentinel+Expert+☁️;Offense+Informs+Defense+%7C+DevSecOps+Mindset+🚀)](https://git.io/typing-svg)
 
 <!-- Cyberpunk Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=LSAM'S%20CYBER%20PROFILE&fontSize=40&fontColor=CEF709&animation=twinkling&fontAlignY=65&desc=Security%20•%20Intelligence%20•%20Defense&descAlignY=85&descSize=16&theme=dark"/>
+<svg width="100%" height="150px" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" style="background-color:#000000">
+  <defs>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF0000;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main Title -->
+  <text x="50%" y="65" font-size="48" fill="url(#redGradient)" text-anchor="middle" font-family="Courier New, monospace" filter="url(#glow)">
+    LSAM'S CYBER PROFILE
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="115" font-size="20" fill="#FF4444" text-anchor="middle" font-family="Segoe UI, sans-serif" opacity="0.8">
+    Security • Intelligence • Defense
+  </text>
+</svg>
+
 </div>
 
 ---
