@@ -41,6 +41,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsam18&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00FF41&text_color=FFFFFF&border_radius=15"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lsam18&theme=synthwave&hide_border=true&background=0D1117&stroke=FF6B35&ring=00FF41&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35&dates=FFFFFF&border_radius=15"/>
 
+<!-- TryHackMe Stats Integration -->
+<img height="180em" src="https://tryhackme-badges.s3.amazonaws.com/lsam28.png" alt="TryHackMe"/>
+
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lsam18&bg_color=0D1117&color=FFFFFF&line=FF6B35&point=00FF41&area=true&area_color=FF6B35&title_color=FF6B35&custom_title=🔥%20CYBER%20WARFARE%20ACTIVITY%20GRAPH&hide_border=true&radius=15"/>
 
@@ -92,6 +95,13 @@
 - 📝 **Published Author** on Medium
 - 🤝 **Open Source Contributor**
 - 🇱🇰 **Sri Lankan Cyber Warrior**
+
+### 🎮 **HACKING PLAYGROUND DOMINATION**
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lsam28)
+- 🎯 **Elite Hacker Rank** - Top 2% Worldwide
+- 🏆 **200+ Rooms Conquered**
+- ⚔️ **Advanced Persistent Threat Simulation**
+- 🛡️ **Blue Team Defense Mastery**
 
 </td>
 </tr>
@@ -357,6 +367,62 @@ Impact: Improved threat intelligence capabilities and response strategies
 
 ---
 
+## 🎮 **TRYHACKME HACKING BATTLEGROUND**
+
+<div align="center">
+
+### 🏆 **ELITE HACKER ACHIEVEMENTS**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎯 GLOBAL RANKING**  
+[![Top 2%](https://img.shields.io/badge/World%20Rank-Top%202%25-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lsam28)
+
+</td>
+<td align="center" width="33%">
+
+**⚔️ ROOMS CONQUERED**  
+![Rooms](https://img.shields.io/badge/Rooms-200+-00FF41?style=for-the-badge&logo=target&logoColor=black)
+
+</td>
+<td align="center" width="33%">
+
+**🛡️ STREAK WARFARE**  
+![Streak](https://img.shields.io/badge/Streak-Elite%20Status-FF6B35?style=for-the-badge&logo=fire&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🚨 **SPECIALIZED COMBAT TRACKS**
+```yaml
+🔥 OFFENSIVE SECURITY MASTERY:
+├── 💀 Advanced Exploitation Techniques
+├── 🕷️ Web Application Security Testing  
+├── 🌐 Network Penetration Testing
+├── 🏛️ Active Directory Compromise
+└── 📱 Mobile Security Assessment
+
+🛡️ DEFENSIVE OPERATIONS EXCELLENCE:
+├── 🔍 Digital Forensics & Incident Response
+├── 📊 Security Information & Event Management
+├── 🚨 Threat Hunting & Detection Engineering
+├── ☁️ Cloud Security Architecture
+└── 🤖 Security Automation & Orchestration
+```
+
+### 🎖️ **BATTLEFIELD RECOGNITION**
+- 🏆 **King of the Hill** Consistent Top Performer
+- 🎯 **Room Creator Recognition** - Community Contributions
+- ⚡ **Speed Hacker** - Sub-hour complex challenges
+- 🧠 **Write-up Warrior** - Educational Content Creator
+
+</div>
+
+---
+
 ## 📊 **REAL-TIME CYBER WARFARE DASHBOARD**
 
 <div align="center">
@@ -384,25 +450,31 @@ Impact: Improved threat intelligence capabilities and response strategies
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **🌍 PORTFOLIO HQ**  
 [![Portfolio](https://img.shields.io/badge/🚀%20lsam--cyber.space-FF6B35?style=for-the-badge&logoColor=white)](https://lsam-cyber.space)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **💼 PROFESSIONAL NETWORK**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lsam)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+
+**🎮 HACKING PLAYGROUND**  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lsam28)
+
+</td>
+<td align="center" width="20%">
 
 **📧 SECURE COMMS**  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshan.sam28@gmail.com)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **📝 THREAT INTEL BLOG**  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshan.sam28)
