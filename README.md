@@ -435,7 +435,7 @@ Impact: Improved threat intelligence capabilities and response strategies
 
 <!-- 3D Contribution Grid -->
 <h3 align="center">🔥 3D CONTRIBUTION BATTLEFIELD</h3>
-<img src="https://github.com/Lsam18/Lsam18/blob/output/snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lsam18/Lsam18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
