@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=80&lines=🧠+Cybersecurity+Engineer+%7C+Purple+Team+Operative+🔥;SOC+Automator+⚡️+Threat+Intelligence+Hunter+🎯;SIEM+Architect+%7C+Detection+Engineering+Master+🛡️;96.2%25+Detection+Accuracy+%7C+Sub-5s+Response+Time+⚡️;Top+2%25+TryHackMe+%7C+Azure+Sentinel+Expert+☁️;Offense+Informs+Defense+%7C+DevSecOps+Mindset+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=80&lines=🧠+Cybersecurity+Engineer+%7C+Purple+Team+Operative+🔥;SOC+Automator+⚡️+Threat+Intelligence+Hunter+🎯;SIEM+Architect+%7C+Detection+Engineering+Master+🛡️;96.2%25+Detection+Accuracy+%7C+Sub-5s+Response+Time+⚡️;Top+2%25+TryHackMe+%7C+Azure+Sentinel+Expert+☁️;Offense+Informs+Defense+%7C+DevSecOps+Mindset+🚀)](https://git.io/typing-svg)
 
 <!-- Cyberpunk Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
@@ -502,7 +502,7 @@ Impact: Improved threat intelligence capabilities and response strategies
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🛡️+ALWAYS+VIGILANT+%7C+NEVER+COMPROMISED+🔥;⚡+READY+TO+DEFEND+%7C+PREPARED+TO+ATTACK+⚔️;🎯+PRECISION+DETECTION+%7C+LIGHTNING+RESPONSE+🚀" alt="Footer Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🛡️+ALWAYS+VIGILANT+%7C+NEVER+COMPROMISED+🔥;⚡+READY+TO+DEFEND+%7C+PREPARED+TO+ATTACK+⚔️;🎯+PRECISION+DETECTION+%7C+LIGHTNING+RESPONSE+🚀)](https://git.io/typing-svg)
 
 **⚡ STATUS: OPERATIONAL | 🎯 THREAT LEVEL: ZERO | 🔥 DEFENSE: MAXIMUM**
 
