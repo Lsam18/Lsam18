@@ -1,4 +1,4 @@
-# 🌐 LAKSHAN SAMEERA
+# 🌐 LSAM - LAKSHAN SAMEERA (SAMEER) - CALL ME SAMEER! :)
 
 <div align="center">
   
