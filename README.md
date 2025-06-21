@@ -20,12 +20,10 @@
       </feMerge>
     </filter>
   </defs>
-
   <!-- Main Title -->
   <text x="50%" y="65" font-size="48" fill="url(#redGradient)" text-anchor="middle" font-family="Courier New, monospace" filter="url(#glow)">
     LSAM'S CYBER PROFILE
   </text>
-
   <!-- Subtitle -->
   <text x="50%" y="115" font-size="20" fill="#FF4444" text-anchor="middle" font-family="Segoe UI, sans-serif" opacity="0.8">
     Security • Intelligence • Defense
