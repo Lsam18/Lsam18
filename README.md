@@ -490,7 +490,7 @@ Impact: Improved threat intelligence capabilities and response strategies
 <div align="center">
 
 <!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=footer&text=STAY%20SECURE&fontSize=32&fontColor=CEF709&animation=twinkling&fontAlignY=38&desc=End%20of%20Transmission&descAlignY=60&descSize=14"/>
 
 ### 🔥 **CYBER WARFARE DOCTRINE**
 
